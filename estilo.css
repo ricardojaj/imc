@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.4rem;
+  place-items: center;
+  background-color: cornsilk;
+}
+input {
+  padding: 8px;
+  border: 1px solid greenyellow;
+}
+
+label,
+input {
+  margin: 6px 0;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: 2px solid black;
+}
+
+.caixa-texto {
+  width: 500px;
+  height: 72px;
+  margin-top: 25px;
+  font-size: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.vermelho {
+  color: red;
+}
+
+#cabecario {
+  background-color: grey;
+  padding: 15px;
+  text-align: center;
+}
